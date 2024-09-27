@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AgriSystem.API.props" />
+</Project>

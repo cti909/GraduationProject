@@ -1,0 +1,60 @@
+C:\Users\Admin\Desktop\Đồ án tốt nghiệp\DoAn-BackEnd\AgriSystem\AgriSystem.Data\bin\Debug\net8.0\AgriSystem.Data.deps.json
+C:\Users\Admin\Desktop\Đồ án tốt nghiệp\DoAn-BackEnd\AgriSystem\AgriSystem.Data\bin\Debug\net8.0\AgriSystem.Data.runtimeconfig.json
+C:\Users\Admin\Desktop\Đồ án tốt nghiệp\DoAn-BackEnd\AgriSystem\AgriSystem.Data\bin\Debug\net8.0\AgriSystem.Data.dll
+C:\Users\Admin\Desktop\Đồ án tốt nghiệp\DoAn-BackEnd\AgriSystem\AgriSystem.Data\bin\Debug\net8.0\AgriSystem.Data.pdb
+C:\Users\Admin\Desktop\Đồ án tốt nghiệp\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Đồ án tốt nghiệp\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Đồ án tốt nghiệp\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Đồ án tốt nghiệp\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Đồ án tốt nghiệp\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Đồ án tốt nghiệp\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.sourcelink.json
+C:\Users\Admin\Desktop\Đồ án tốt nghiệp\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.dll
+C:\Users\Admin\Desktop\Đồ án tốt nghiệp\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\refint\AgriSystem.Data.dll
+C:\Users\Admin\Desktop\Đồ án tốt nghiệp\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.pdb
+C:\Users\Admin\Desktop\Đồ án tốt nghiệp\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Đồ án tốt nghiệp\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\ref\AgriSystem.Data.dll
+C:\Users\Admin\Desktop\DoAnTotNghiep\DoAn-BackEnd\AgriSystem\AgriSystem.Data\bin\Debug\net8.0\AgriSystem.Data.deps.json
+C:\Users\Admin\Desktop\DoAnTotNghiep\DoAn-BackEnd\AgriSystem\AgriSystem.Data\bin\Debug\net8.0\AgriSystem.Data.runtimeconfig.json
+C:\Users\Admin\Desktop\DoAnTotNghiep\DoAn-BackEnd\AgriSystem\AgriSystem.Data\bin\Debug\net8.0\AgriSystem.Data.dll
+C:\Users\Admin\Desktop\DoAnTotNghiep\DoAn-BackEnd\AgriSystem\AgriSystem.Data\bin\Debug\net8.0\AgriSystem.Data.pdb
+C:\Users\Admin\Desktop\DoAnTotNghiep\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnTotNghiep\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\DoAnTotNghiep\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\DoAnTotNghiep\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.AssemblyInfo.cs
+C:\Users\Admin\Desktop\DoAnTotNghiep\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DoAnTotNghiep\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.sourcelink.json
+C:\Users\Admin\Desktop\DoAnTotNghiep\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.dll
+C:\Users\Admin\Desktop\DoAnTotNghiep\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\refint\AgriSystem.Data.dll
+C:\Users\Admin\Desktop\DoAnTotNghiep\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.pdb
+C:\Users\Admin\Desktop\DoAnTotNghiep\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.genruntimeconfig.cache
+C:\Users\Admin\Desktop\DoAnTotNghiep\DoAn-BackEnd\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\ref\AgriSystem.Data.dll
+C:\Users\eren.duong\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.dll
+C:\Users\eren.duong\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\refint\AgriSystem.Data.dll
+C:\Users\eren.duong\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.pdb
+C:\Users\eren.duong\Desktop\AgriSystem\AgriSystem.Data\bin\Debug\net8.0\AgriSystem.Data.deps.json
+C:\Users\eren.duong\Desktop\AgriSystem\AgriSystem.Data\bin\Debug\net8.0\AgriSystem.Data.runtimeconfig.json
+C:\Users\eren.duong\Desktop\AgriSystem\AgriSystem.Data\bin\Debug\net8.0\AgriSystem.Data.dll
+C:\Users\eren.duong\Desktop\AgriSystem\AgriSystem.Data\bin\Debug\net8.0\AgriSystem.Data.pdb
+C:\Users\eren.duong\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.csproj.AssemblyReference.cache
+C:\Users\eren.duong\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren.duong\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.AssemblyInfoInputs.cache
+C:\Users\eren.duong\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.AssemblyInfo.cs
+C:\Users\eren.duong\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\eren.duong\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.sourcelink.json
+C:\Users\eren.duong\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.genruntimeconfig.cache
+C:\Users\eren.duong\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\ref\AgriSystem.Data.dll
+C:\Users\Admin\Desktop\AgriSystem\AgriSystem.Data\bin\Debug\net8.0\AgriSystem.Data.deps.json
+C:\Users\Admin\Desktop\AgriSystem\AgriSystem.Data\bin\Debug\net8.0\AgriSystem.Data.runtimeconfig.json
+C:\Users\Admin\Desktop\AgriSystem\AgriSystem.Data\bin\Debug\net8.0\AgriSystem.Data.dll
+C:\Users\Admin\Desktop\AgriSystem\AgriSystem.Data\bin\Debug\net8.0\AgriSystem.Data.pdb
+C:\Users\Admin\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.AssemblyInfo.cs
+C:\Users\Admin\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.sourcelink.json
+C:\Users\Admin\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.dll
+C:\Users\Admin\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\refint\AgriSystem.Data.dll
+C:\Users\Admin\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.pdb
+C:\Users\Admin\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\AgriSystem.Data.genruntimeconfig.cache
+C:\Users\Admin\Desktop\AgriSystem\AgriSystem.Data\obj\Debug\net8.0\ref\AgriSystem.Data.dll
